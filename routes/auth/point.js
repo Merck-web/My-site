@@ -29,5 +29,4 @@ module.exports = function (fastify, opts, next) {
 
     next();
 }
-console.log(process.env.API, 'process.env.API')
 module.exports.autoPrefix = process.env.API + 'auth';

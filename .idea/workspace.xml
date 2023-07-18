@@ -6,19 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="457db6f4-eb48-4e01-9ee3-df1cba94973c" name="Changes" comment="server init">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dependensies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/sign/handler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/sensible.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/auth/point.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/auth/point.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth/point.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +94,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "javascript.nodejs.core.library.configured.version": "16.14.1",
     "javascript.nodejs.core.library.typings.version": "16.18.38",
-    "last_opened_file_path": "D:/Users/mrclll/WebstormProjects/bank",
+    "last_opened_file_path": "D:/Users/mrclll/WebstormProjects/My-site",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -166,7 +157,8 @@
       <workItem from="1689496404934" duration="176000" />
       <workItem from="1689496592209" duration="2324000" />
       <workItem from="1689501969790" duration="156000" />
-      <workItem from="1689502133813" duration="2998000" />
+      <workItem from="1689502133813" duration="3250000" />
+      <workItem from="1689653365693" duration="569000" />
     </task>
     <task id="LOCAL-00001" summary="server init">
       <option name="closed" value="true" />
@@ -184,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689406540789</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="server init">
+      <option name="closed" value="true" />
+      <created>1689515060502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689515060502</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
